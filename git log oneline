@@ -1,0 +1,35 @@
+[33mcommit 40304aca5539fc27944a4234a7c76380a6ed3a2c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: bai <18270342783@qq.com>
+Date:   Sun Feb 10 19:42:25 2019 +0800
+
+    一次性把修改的文件提交了
+
+[33mcommit 14988fee2b9bdf326b8d87ad2b356513e059601d[m
+Author: bai <18270342783@qq.com>
+Date:   Sun Feb 10 19:37:35 2019 +0800
+
+    添加了01.js和第五个功能
+
+[33mcommit b2dcf95030847d6229855eeb2d2b08c86e7ec00c[m
+Author: bai <18270342783@qq.com>
+Date:   Sun Feb 10 19:32:14 2019 +0800
+
+    这是第四个功能
+
+[33mcommit 00470c250d7bd90617048671559885527026a290[m
+Author: bai <18270342783@qq.com>
+Date:   Sun Feb 10 19:28:55 2019 +0800
+
+    实现的第三个功能
+
+[33mcommit 29ae12d1e2770256f95b1c0d4680bf5f2510ca07[m
+Author: bai <18270342783@qq.com>
+Date:   Sun Feb 10 19:24:01 2019 +0800
+
+    这是实现的第一个功能
+
+[33mcommit 7a686035d7cc5e022b0c4ec50af6405b89bbd99d[m
+Author: bai <18270342783@qq.com>
+Date:   Sun Feb 10 19:20:29 2019 +0800
+
+    这是我第一次测试git提交代码
